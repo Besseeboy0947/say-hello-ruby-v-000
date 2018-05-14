@@ -1,7 +1,7 @@
 
 def say_hello(name)
   
-  puts "hello Kent Beck!"
+  puts "Hello Kent Beck!"
   
 end
   
