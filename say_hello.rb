@@ -3,6 +3,8 @@ def say_hello(name)
   
   puts "Hello Kent Beck!"
   
+  puts ""
+  
 end
   
   say_hello(1)
